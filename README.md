@@ -116,7 +116,7 @@ PAZ archives use ChaCha20-Poly1305 encryption with per-file keys derived from fi
 
 - NattKh —  reverse engineering, parsers, save editor
 - [Potter420](https://github.com/potter420/crimson-rs) — crimson-rs PAZ toolkit, PackGroupBuilder, iteminfo field mapping
-- [lukerz](https://github.com/LukeFZ/pycrimson)  — pycrimson schema extraction, PABGH index parsing
+- [lukefz](https://github.com/LukeFZ/pycrimson)  — pycrimson schema extraction, PABGH index parsing
 - [fireundubh](https://github.com/fireundubh/) — Code refactoring, QuestState enum, test suite contributions
 - Community contributors
 
